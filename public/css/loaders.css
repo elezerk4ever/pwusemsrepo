@@ -1,0 +1,7 @@
+#loaders{
+    display: flex;
+    justify-content:center;
+    position: absolute;
+    width: 100vw;
+    top: 30vh;
+}
